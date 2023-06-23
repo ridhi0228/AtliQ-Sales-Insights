@@ -1,5 +1,15 @@
 # AtliQ-Sales-Insights
 
+AtliQ Hardware
+- Is a company which supplies computer hardware and peripherals to many clients across India;
+- The company has a head office in Dehli and regional offices throughout India.
+
+Business Issue
+The sales director is facing a lot of challenges such as:
+The marketing is growing dynamically and then he’s struggling in terms of tracking the sales, needing more accurate insights about the company sales, and then take the necessary decisions.
+
+I used SQL queries in MySQL Workbench to take a look into the data and Power BI for ETL and visualizations to create the insights.
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
