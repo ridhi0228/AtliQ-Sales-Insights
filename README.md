@@ -1,3 +1,6 @@
+[Link to Dashboard](https://www.novypro.com/project/atliq-hardware-sales-insights-1)
+
+
 # AtliQ-Sales-Insights
 
 AtliQ Hardware
