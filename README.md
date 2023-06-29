@@ -52,6 +52,7 @@ Show total revenue in year 2020, January Month,
 and transactions.market_code="Mark001";`
 
 
+![Screenshot (53)](https://github.com/ridhi0228/AtliQ-Sales-Insights/assets/132190698/6694fc95-85a1-4c93-b70a-a0e945292120)
 
 
 
